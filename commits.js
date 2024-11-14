@@ -94,7 +94,8 @@ async function commitChanges() {
       try {
         await git.cwd(repoPath).push('origin', 'main');
       } catch (pushError) {
-        logMessage(`Error pushing to repository: ${pushError.message}`);
+        // logMessage(`Error pushing to repository: ${pushError.message}`);
+        logMessage(`Rate-limit error.`);
       }
 
       if (commitCount >= 54178) {

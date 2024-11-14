@@ -47,7 +47,7 @@ Ensure you have the following set up before running this bot:
 1. **Run the Bot**  
    After configuring, start the bot by running:
    ```bash
-   node your_script.js
+   node commits.js
    ```
    This will initiate the bot, and you should see logs displayed in the console with timestamps and the bot’s actions.
 

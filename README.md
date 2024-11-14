@@ -1,7 +1,7 @@
 # GitHub Contribution Bot
 ## by Freson
 
-![GitHub Contribution Bot Banner]([https://raw.githubusercontent.com/FresonDev/cdnPublic/refs/heads/main/banner_contribot](https://github.com/FresonDev/cdnPublic/blob/main/contribot.png?raw=true))
+![GitHub Contribution Bot Banner](https://github.com/FresonDev/cdnPublic/blob/main/contribot.png?raw=true)
 
 ## Overview
 **GitHub Contribution Bot** is a Node.js-based automation tool that periodically generates random file changes and pushes commits to a specified GitHub repository. This bot can simulate contributions and is configurable for personal use.

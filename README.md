@@ -73,6 +73,3 @@ This bot was developed for educational and personal use only. Automated commits 
 ---
 
 © 2024 by [FresonDev](https://github.com/FresonDev)
-```
-
-Este `README.md` está diseñado para que el usuario pueda instalar, configurar y ejecutar el bot con facilidad. Además, incluye una advertencia sobre el uso responsable.
